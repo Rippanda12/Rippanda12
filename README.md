@@ -1,2 +1,1 @@
-# Rippanda12
-Hi my name is Panda and i made BredOS
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
